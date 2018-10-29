@@ -1,0 +1,23 @@
+#header {
+    width: 100%;
+}
+#carimage {
+    margin: auto 5px;
+    width: 200px;
+}
+.block {
+    border: 2px solid #0985e7;
+    margin-bottom: 4px;
+}
+h2 {
+    margin: 10px;
+    padding: 0px;
+}
+p {
+    padding: 0px;
+    margin: 10px;
+}
+#promotion {
+    background-color: #0985e7;
+    color: white;
+}

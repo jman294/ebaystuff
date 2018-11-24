@@ -1,4 +1,5 @@
 # ebaystuff
-Find description one better here: https://jsfiddle.net/Lpby5g7e/3/
+ - 1: https://jsfiddle.net/Lpby5g7e/3/
+ - 2: https://jsfiddle.net/uwfs5tgv/1/
 
 Work on Upcrash!
